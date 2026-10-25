@@ -1,0 +1,7 @@
+{
+  "name": "TrustShield",
+  "description": "Professional cybersecurity intelligence platform to analyze suspicious messages, check URLs against threat feeds, investigate online scams, manage digital evidence, and generate investigation reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
